@@ -70,7 +70,7 @@ A comprehensive and interactive banking application built with Python, leveragin
 1. Add User
 2. Show Users
 3. Login
-4. Exit
+4. Exit<br>
 Enter your choice:
 ---
 ### After Login:
@@ -82,7 +82,7 @@ Enter your choice:
 6. Deactivate Account
 7. Change Password
 8. Update Profile
-9. Logout
+9. Logout<br>
 Enter your choice:
 --- 
 
